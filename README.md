@@ -9,7 +9,7 @@ then run the jupyter notebooks in the main folder containing the experiments.
 
 ## Datasets
 
-Please unzip the file in './data/f_pointnet_eval'. Also, get the OOD datasets from the links below, and place thme in the './data' floder:
+Please unzip the file in `./data/f_pointnet_eval`. Also, get the OOD datasets from the links below, and place thme in the `./data` floder:
 
 * [Tiny-ImageNet (resize)](https://www.dropbox.com/s/kp3my3412u5k9rl/Imagenet_resize.tar.gz)
 * [LSUN (resize)](https://www.dropbox.com/s/moqh2wh8696c3yl/LSUN_resize.tar.gz)
